@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Jekyll template
+Beautiful responsive portfolio style template for designers and web developers
 
-You can use the [editor on GitHub](https://github.com/JianqinglinFox/nextartwork/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![preview](http://i.imgur.com/9Nz6Ib9.jpg)
 
-### Markdown
+## Demo
+Find a demo [here](http://nikrich.github.io/jekyll-slender-template/#)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
 
-```markdown
-Syntax highlighted code block
+1. Clone the repo
+2. Checkout the dev branch ( Do not work directly on master )
+3. Use ```jekyll serve``` to run the project
+4. Make your changes and test
+5. Submit a pull request
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JianqinglinFox/nextartwork/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Inspired by [Balraj Chana](https://dribbble.com/shots/2380700-New-Portfolio-Site-Live)
